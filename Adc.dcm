@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7193
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7193.pdf
+$ENDCMP
+#
+#End Doc Library
